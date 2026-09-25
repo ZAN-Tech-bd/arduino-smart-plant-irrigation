@@ -37,6 +37,8 @@ An Arduino-powered "robotic gardener" that checks whether your plant is thirsty 
 
 > **Note:** Ask a teacher or parent for help with the battery and water pump wiring.
 
+![Smart Automatic Plant Watering System pictorial wiring diagram](Smart%20Automatic%20Plant%20Watering%20System%20pictorial%20wiring%20diagram.png)
+
 ### LCD Display (I2C)
 
 | LCD Pin | Arduino Pin |
